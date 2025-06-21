@@ -1,0 +1,466 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 2,
+  "name": "Vanilla+ v1.1",
+  "version": "1.2",
+  "author": "写保护",
+  "description": "",
+  "fileApi": "",
+  "url": "",
+  "forceUpdate": false,
+  "origin": [],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.21.5"
+    },
+    {
+      "id": "neoforge",
+      "version": "21.5.75"
+    }
+  ],
+  "libraries": [],
+  "files": [
+    {
+      "path": "mods/appleskin-neoforge-mc1.21.5-3.0.7.jar",
+      "hash": "261d3167318ef99877c5d25f0b67765241531a17",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/architectury-16.1.4-neoforge.jar",
+      "hash": "593449b4667e7b3924d74d9f18859e5f8885dba8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/auto_third_person-neo-1.21.5-2.2.jar",
+      "hash": "758e7b75ed11bd8e02a4c79822e3512c958ef802",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/bagus_lib-1.21.5-16.9.0.jar",
+      "hash": "49860ddd9e5475f9b66f7fe5b77bd18aff50835c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/balm-neoforge-1.21.5-21.5.17.jar",
+      "hash": "84702d03f7ca5845e7166e179a0b863f43998c86",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/better-clouds-1.9.3-beta+1.21.5-neoforge.rev.256248d.jar",
+      "hash": "110c4a1ac67ae0f098e40223e56a2e9876c38a64",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/bettervillage-neoforge-1.21.5-3.3.1.jar",
+      "hash": "970e67de35eef0d454647b19f3f15564e8f955ef",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/BoccHUD-0.3.2-mc1.21.5.jar",
+      "hash": "2323497da3b462e89755ff104f9cffb1051f6e8c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/BridgingMod-2.6.3+1.21.5.neoforge-release.jar",
+      "hash": "c32b82c9c7529d6035ebf10dd4e0f370a5baf584",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/chestsearchbar-neoforge-1.21.5-1.5.1.jar",
+      "hash": "7a47e9df722eb5b87d1554b7d0b88ba03ec60cf7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Chunky-NeoForge-1.4.36.jar",
+      "hash": "3c8c8784e0cf246ceabf94db0c2578f1dd8726b6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/cloth-config-18.0.145-neoforge.jar",
+      "hash": "49d8e091296fd89e0c3d6f589e705ff86447163a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/collective-1.21.5-8.3.jar",
+      "hash": "b6739d9a6ad0931d51f8f50d29f9a4fb5d72a8e5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.5.jar",
+      "hash": "1052414ff40b66e12850121d50fdeb178d51bcc9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/dungeons-and-taverns-v4.7.jar",
+      "hash": "630bd8aa53337e4fcce95fc77bd107dc440636b5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/earthmobsmod-1.21.5-21.7.0.jar",
+      "hash": "2e2f4de5c932a48ebe315c82e3fe47b35646c086",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/EasyAnvils-v21.5.1-1.21.5-NeoForge.jar",
+      "hash": "6a530ffd556e03f32374b2741e400c3e787ca145",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/entity_model_features_neoforge_1.21.5-2.4.3.jar",
+      "hash": "34f4d2b15d4104e2a010ecf8cf3ea1f093353cc4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/entity_texture_features_neoforge_1.21.5-6.2.13.jar",
+      "hash": "20e5affb0873f81ce1aa505668ee831fcaa376be",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/explosiveenhancement-neoforge-1.21.5-1.1.2.jar",
+      "hash": "08610582a3c4a36699b03edb16a0223b03333950",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/FancyBlockParticles-1.21.5-neoforge-21.5.0.1.jar",
+      "hash": "fa2c7fe2430103328fb2c9e3bd963455f3d941b9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ferritecore-8.0.0-neoforge.jar",
+      "hash": "c966accc11438c2597c0aa5ca21f19a271caaaa1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Forgematica-0.3.4-mc1.21.5.jar",
+      "hash": "13e1edbc3414a3e3f9df07facb032eb9b47e40da",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/forgivingvoid-neoforge-1.21.5-21.5.3.jar",
+      "hash": "ac6f03ee3ae295916e83a1667324c301c20139a4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/friendsandfoes-neoforge-4.0.5+mc1.21.5.jar",
+      "hash": "5b7873a9524f84a8467067e35262bd8d1ad9221d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Geophilic v3.4.1 f15-71.mod.jar",
+      "hash": "306010df473a8ae16c9b13fb4fc5d6326f2a8339",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/gravestone-neoforge-1.21.5-1.0.25.jar",
+      "hash": "2e0bc17033db63cf3613bbb20bbcd50aabfd8f85",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/InventoryProfilesNext-neoforge-1.21.5-2.1.9.jar",
+      "hash": "cf5cb8f8603e0c136036f26884a9571ada3bc0e0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/iris-neoforge-1.8.11+mc1.21.5.jar",
+      "hash": "9bba758bc44057f20d1d677dd0ed8082f25bd41b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/jei-1.21.5-neoforge-21.3.2.22.jar",
+      "hash": "ffc5d8a81b3d9351fe4782249b84563b47ebe503",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/kotlinforforge-5.8.0-all.jar",
+      "hash": "d979656ab0cc395cb0819378eff839c5070a0ef9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/libIPN-neoforge-1.21.5-6.5.0.jar",
+      "hash": "6d5a1caa112b4ef3f64f94a190166a34cdaac78e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/libraryferret-neoforge-1.21.5-4.0.0.jar",
+      "hash": "c9d233c733e3e3861f5dc4c92d98cc7ca77f62f7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/lithium-neoforge-0.16.2+mc1.21.5.jar",
+      "hash": "171f0b8d7ae093f7841c24c40b9dbef28f741c52",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/lithostitched-neoforge-1.21.5-1.4.8.jar",
+      "hash": "44d8a30a3f4703b241525663ecc3aabc09a6ea01",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/MaFgLib-0.3.6-mc1.21.5.jar",
+      "hash": "68d0f184b2589dd6c3197debea5899d90152aa09",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/mes-1.4.3-1.21.5.jar",
+      "hash": "1de5abcf6473c5ea4ff6102d8cfd2530d16f60da",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/moderner-beta-2.1.8+1.21.5-neoforge.jar",
+      "hash": "ece855ae23de196c7133c25ae0ff71e6a4a982d2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/mru-1.0.17+1.21.5+neoforge.jar",
+      "hash": "2c6d991cf7549262b2477e7c05894766e9a8fc40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/MutantMonsters-v21.5.1-1.21.5-NeoForge.jar",
+      "hash": "2de2a0dbb531a9a9cad193da40cc4d2f4fa2ca7a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/nice-talking-villager-1.2.jar",
+      "hash": "2a7d0e6335d18d098310db33c241768d5758ef6e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/notenoughanimations-neoforge-1.9.3-mc1.21.5.jar",
+      "hash": "b3264ff777e337c318671a1583da7d0756778610",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/open-parties-and-claims-neoforge-1.21.5-0.24.3.jar",
+      "hash": "54df55a2c46419e521f713bfe33cef8449137207",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/puffish_skills-0.16.2-1.21.5-neoforge.jar",
+      "hash": "731e11b22ce308eb6c413c32be8af05c85d09db0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/PuzzlesLib-v21.5.12-1.21.5-NeoForge.jar",
+      "hash": "abcd9acaebfaf05c6f66b095f092218db3ed1918",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/repurposed_structures-7.5.19+1.21.5-neoforge.jar",
+      "hash": "84c9a8a42397759d8eacb9fbfb45c2c457774b0b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ResourcefulLib-neoforge-1.21.5-3.5.0.jar",
+      "hash": "796138fa091f0a8e0f75f241d6764fb398b5cb06",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/separatedleaves-2.6.1-neoforge-1.21.4.jar",
+      "hash": "96402c41e754bb3520367f8d1692f87473c16e1e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ShoulderSurfing-NeoForge-1.21.5-4.12.0.jar",
+      "hash": "1432af2946f8e1b65dfb4920cb3ed9887d604475",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/sit-1.21.3-1.3.5.jar",
+      "hash": "9988a6a5eaa9323571459aac027f36c87781d7c2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/skinlayers3d-neoforge-1.7.5-mc1.21.5.jar",
+      "hash": "7dacbec2ca88ccd7bd33302299f383ff36c27e6d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/SlotCycler-v21.5.0-1.21.5-NeoForge.jar",
+      "hash": "969120e8c3d2fcaa84fcaafd0fc90183b7233125",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/sodium-neoforge-0.6.13+mc1.21.5.jar",
+      "hash": "8e46bbbc115724bb830ca786a756f730d5b85a48",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/sodiumdynamiclights-neoforge-1.0.10-1.21.5.jar",
+      "hash": "95f63a7bf7b4824ab677a3a7f1c068c5c3b94b34",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/solid_mobs_neoforge.1.21.5-1.8.jar",
+      "hash": "45c1bec3dca78afe50b1f9c110b6615638578ba1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/sound-physics-remastered-neoforge-1.21.5-1.4.12.jar",
+      "hash": "f7b570dccc8a4d84aa9265970f70282b9fdb99d1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/stackrefill-1.21.5-4.7.jar",
+      "hash": "e7c22af8c9bf742ff486cb19c16466d249166942",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/stonecutter-salvage-1.7.1.jar",
+      "hash": "8bf1dc812a105a1e8631444c129c94dbe11155a8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/tectonic-3.0.1-neoforge-1.21.5.jar",
+      "hash": "df7e73350a7ab97206489401dc44d56fca45bd78",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Terralith_1.21.x_v2.5.9.jar",
+      "hash": "ed87cbb982917de79bf4b43d507d236874fc21ae",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/TradingPost-v21.5.0-1.21.5-NeoForge.jar",
+      "hash": "9acbabfbf7b18b6a8545c15fa238d02169079fcd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/VisualWorkbench-v21.5.0-1.21.5-NeoForge.jar",
+      "hash": "a55540c4deb4b838d4618518e776a9b18fdc7d03",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/voicechat-neoforge-1.21.5-2.5.30.jar",
+      "hash": "1bcab27eac751e7bb44a540806235c3112a0da06",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/XaerosWorldMap_1.39.10_NeoForge_1.21.5.jar",
+      "hash": "dd641eccee4b400bda33db35f10995161a6d8c0d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Xaeros_Minimap_25.2.6_NeoForge_1.21.5.jar",
+      "hash": "151963f28e2c086160da127b02bd24c0a83d110e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.6.6+1.21.5-neoforge.jar",
+      "hash": "a821c1f9c7af3598f9db1e50acb59da2e4306fc2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Faithful 64x - March 2025 Release.zip",
+      "hash": "b8f3ac23ce4d721f576b8d8d4f61cfd798ba8044",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Faithful64x-FreshAnimations-v1.9.4a.zip",
+      "hash": "07b8098b85f08b0625b3a3a46ba5f0f04fc627a1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/FreshAnimations_v1.9.4.zip",
+      "hash": "189ed78802c97efa0902bd1bb909181fba9e2eb9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/§eExtended_Illumina_NEA_1.21.5.zip",
+      "hash": "7b5c55eedbba06987609962368e9e2e0984db73b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.4]§0.zip",
+      "hash": "31c37baceb464f8ec071b31f4e403be3e813c0a6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip",
+      "hash": "c9f1724fbe77e1d36afab9612b4aaac693bc84e4",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "settings": {
+    "install_mods": true,
+    "install_resourcepack": true
+  },
+  "launchInfo": {
+    "minMemory": 4000,
+    "launchArgument": [],
+    "javaArgument": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Vanilla+ v1.1",
+  "version": "1.2",
+  "author": "写保护",
+  "overrides": "overrides",
+  "minecraft": {
+    "version": "1.21.5",
+    "modLoaders": [
+      {
+        "id": "neoforge-21.5.75",
+        "primary": true
+      }
+    ]
+  },
+  "files": []
+}
